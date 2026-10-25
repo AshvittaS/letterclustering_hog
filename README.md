@@ -11,6 +11,9 @@ Demo:https://huggingface.co/spaces/Ashvitta07/letterclustering_hog
 <img width="1723" height="925" alt="image" src="https://github.com/user-attachments/assets/f0d55a51-bc48-4627-a2ca-d8853115011d" />
 <img width="1892" height="878" alt="image" src="https://github.com/user-attachments/assets/7e5c4b88-c54f-4743-9834-6b6b0984477c" />
 
+Plot:
+<img width="2100" height="900" alt="image" src="https://github.com/user-attachments/assets/6026d19d-4280-4e99-870d-c0bdfe5d2c3d" />
+<img width="1650" height="1350" alt="image" src="https://github.com/user-attachments/assets/e6d2703e-cdd6-4c2c-9790-4527c9b1509b" />
 
 ## Project Overview
 
